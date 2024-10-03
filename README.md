@@ -1,6 +1,6 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0DOOWP)
 
-# ticalc.link
+
+# Connectulator
 
 This is a website that allows the user to upload files to their calculators
 using WebUSB. No complicated installation instructions, just open the website,
@@ -21,8 +21,3 @@ at the [`ticalc-usb` library](https://github.com/Timendus/ticalc-usb).
 ## License
 
 This application is released under [GPL version 3.0](LICENSE).
-
-The favicon was made by Scott Zeid and
-[released](https://commons.wikimedia.org/wiki/File:Calculator-ti-84-plus-silver-edition.svg#Licensing)
-under a Creative Commons [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en)
-license. No changes were made other than transforming the image into an icon file.
